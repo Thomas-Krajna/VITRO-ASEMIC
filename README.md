@@ -1,4 +1,4 @@
-# VITRO
+# VITRO-ASEMIC
 This dingbat font was created with FontForge, Photoshop, and Illustrator in response to the manifesto below. The process started by digitizing three petri dishes that were marked in the forms of the seven Henderson’s typtoms in order to cultivate consciousness that is beyond the human.
 
 This work is being commenced on 5/5/22 during the beginning of the graphic design capstone show for University of Wisconsin-Milwaukee. 
