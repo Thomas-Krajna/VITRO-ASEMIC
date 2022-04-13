@@ -20,17 +20,11 @@ PROCLAMATION OF AXIOMS
 
 
 (De)sign beyond the function
-
 (De)sign beyond the human
-
 Inmaterial communication is more important than material communication: geist dance
-
 The mark can seduce essence entrapment: know how memories can be stored in the material
-
 Consciousness creates reality through symbolic and imaginary realms  
-
 Use the non-human as an aid
-
 Invisibility can be a designer’s curse or spell
 
 
