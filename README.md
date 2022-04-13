@@ -9,11 +9,11 @@ POSTHUMAN (DE)SIGN AMONG THE NON-HUMAN MANIFESTO
 
 Definitions:
 
-Posthuman: A critique of enlightenment humanism for a synthesis of new defining characteristics
+    Posthuman: A critique of enlightenment humanism for a synthesis of new defining characteristics
 
-Non-human: The things outside the bounds of the colloquial term “human”
+    Non-human: The things outside the bounds of the colloquial term “human”
 
-(De)sign: Meaning creation for the referent
+    (De)sign: Meaning creation for the referent
 
 
 PROCLAMATION OF AXIOMS
