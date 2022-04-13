@@ -6,11 +6,13 @@ This work is being commenced on 5/5/22 during the beginning of the graphic desig
 POSTHUMAN (DE)SIGN AMONG THE NON-HUMAN MANIFESTO
 
 Definitions:
+
 Posthuman: A critique of enlightenment humanism for a synthesis of new defining characteristics
 Non-human: The things outside the bounds of the colloquial term “human”
 (De)sign: Meaning creation for the referent
 
 PROCLAMATION OF AXIOMS
+
 (De)sign beyond the function
 (De)sign beyond the human
 Inmaterial communication is more important than material communication: geist dance
