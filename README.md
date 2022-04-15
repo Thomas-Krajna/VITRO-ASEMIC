@@ -3,7 +3,7 @@ This font is the artifact for my graphic design capstone project and is a workin
 
 This work came from the inspiration on the "hidden" world of bacteria and influences from biomimicry. Each of the 94 glyphs within the dingbat font came from the digitization of several petri dishes over the span of 3 days that were marked within the forms of the 7 typetoms.
 
-![Synthesis of the 7 typetoms over the extraction of 3 days]
+![Synthesis of the 7 typetoms over the extraction of 3 days](SYNTH-PD123.jpg)
 
 The term asemic which is used to differentiate within the Vitro font has plays a huge role within my work since there are aspects of language or communication that are beyond our understanding or systems. This can be seen within the nutrient of agar communicating with the bacteria from the source of my cheek to form visual clusters. There is a sense of reflection or virtualization that happens when we find other ways of communicating that are different from our own but can be seen within our own latin based framework such as the plastic dish is to the bacteria. This process of virtualizaton is also named by another term that I used within my own art practice which is cognitive estrangement. This process of the cognitive estrangement within the asemic forms can generate new meaning and new applications which is fruitful for what (de)sign can be.
 
