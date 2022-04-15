@@ -15,8 +15,7 @@ The term asemic which is used to categorize the title of this font acts as langu
 
 This work was also meant to create more awareness on the involvement of the invisible and our ecological foundation. This work is being commenced on 5/5/22 during the beginning of the graphic design capstone show for University of Wisconsin-Milwaukee. 
 
-	POSTHUMAN (DE)SIGN AMONG 
-        THE NON-HUMAN MANIFESTO
+	POSTHUMAN (DE)SIGN AMONG THE NON-HUMAN MANIFESTO
         
         Definitions
     	Posthuman: A critique of enlightenment humanism for a synthesis of new defining characteristics
