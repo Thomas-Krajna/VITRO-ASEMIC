@@ -7,9 +7,9 @@
     <img src="IMAGES/93-GLYPHS.png" alt="93 Glyphs" width="600">
 </p>
 
-VITRO-ASEMIC is the artifact for my graphic design capstone project and is a working .otf font that you can download for free on here. I only ask that you attribute my name either through my [Instagram](https://instagram.com/thomaskrajna_artist) or though my [website](https://www.thomaskrajna.com/). 
+VITRO-ASEMIC is an artifact for my graphic design capstone project and is a working .otf font that you can download for free on here. I only ask that you attribute my name either through my [Instagram](https://instagram.com/thomaskrajna_artist) or though my [website](https://www.thomaskrajna.com/). 
 
-This work came from the inspiration on the "hidden" world of bacteria and influences from biomimicry. Each of the glyphs within the dingbat font came from the digitization of several petri dishes over the span of 3 days that were marked within the forms of the 7 typetoms.
+This work came from the inspiration of the "hidden" world of bacteria and influences from biomimicry. VITRO-ASEMIC was also in response to the manifesto below. Each of the glyphs within the dingbat font came from the digitization of several petri dishes over the span of 3 days that were marked within the forms of the 7 typetoms.
 
 The term asemic which is used to categorize the title of this font acts as language or communication that is beyond our understanding but still hails to the referent. This can be seen within the nutrient of agar communicating with the bacteria from the source of my cheek to form visual clusters. There is a sense of virtualization that happens when we find other ways of communicating that are different from our own but can be seen within our own frame such as the plastic dish is to the bacteria. This process is also named by another term that I used within my own art practice which is cognitive estrangement. This process of the cognitive estrangement within the asemic forms can generate new meaning and new applications which is fruitful for what (de)sign can be.
 
