@@ -8,8 +8,6 @@
 </p>
 
 
-
-
 This font is the artifact for my graphic design capstone project and is a working .otf font that you can download for free on here. I only ask that you attribute my name either through my [Instagram](https://instagram.com/thomaskrajna_artist) or though my [website](https://www.thomaskrajna.com/). 
 
 This work came from the inspiration on the "hidden" world of bacteria and influences from biomimicry. Each of the 94 glyphs within the dingbat font came from the digitization of several petri dishes over the span of 3 days that were marked within the forms of the 7 typetoms which can be seen in figure 1.
