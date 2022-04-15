@@ -37,6 +37,8 @@ Technology originates as our will and becomes transferred through the medium of 
 
 Process Documentation
 
-<img src="IMAGES/VA-PROCESS.png" alt="Process" width="650">
+<img src="IMAGES/VA-SCOPE.jpg" alt="SCOPE" width="650">
+
+
 
 
