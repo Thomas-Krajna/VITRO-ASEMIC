@@ -7,7 +7,7 @@
     <img src="IMAGES/93-GLYPHS.png" alt="93 Glyphs" width="600">
 </p>
 
-VITRO-ASEMIC is an artifact for my graphic design capstone project and is a working .otf font that you can download for free on here. I only ask that you attribute my name either through my [Instagram](https://instagram.com/thomaskrajna_artist) or though my [website](https://www.thomaskrajna.com/). 
+VITRO-ASEMIC is an artifact for my graphic design capstone project and is a working .otf font that you can download for free on here. I only ask that you attribute my name either through my [Instagram](https://instagram.com/thomaskrajna_artist) or though my [website](https://www.thomaskrajna.com/). I also have an inspiration board [here](https://pin.it/39A13uk) for this project. 
 
 This work came from the inspiration of the "hidden" world of bacteria and influences from biomimicry. VITRO-ASEMIC was also in response to the manifesto below. Each of the glyphs within the dingbat font came from the digitization of several petri dishes over the span of 3 days that were marked within the forms of the 7 typetoms.
 
