@@ -35,9 +35,10 @@ This work was also meant to create more awareness on the involvement of the invi
     
 Technology originates as our will and becomes transferred through the medium of the form. For example, a human that has limited eyesight could desire technology for an alternation on their base human abilities. This means that we are already posthuman in which (de)sign needs to re-envision this human-centered cognitive apparatus. To reconcile this is one goal of posthuman (de)sign. It has been since the beginning, designers have used the outside world to create shelter as in mud for an example and from that (de)sign has accelerated. The non-human such as ideals, ecologies, mud, and spectacles can all aid the designer. The rejection of agency within marks and objects has haunted the (de)sign field and for its betterment the designer shall become beyond their own subject and towards a collective consciousness of subjectivities.
 
-Process Documentation
 
-<img src="IMAGES/VA-SCOPE.jpg" alt="SCOPE" width="650">
+<p align="center" width="100%">
+   <img src="IMAGES/VA-SCOPE.jpg" alt="SCOPE-PROCESS" width="600">
+</p>
 
 
 
