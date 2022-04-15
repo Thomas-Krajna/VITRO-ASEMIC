@@ -37,6 +37,6 @@ Technology originates as our will and becomes transferred through the medium of 
 
 		Process Documentation
 
-		<img src="IMAGES/PD123-SYNTH.jpg" alt="Synthesis of the 7 typetoms over the extraction of 3 days" width="450">
+		<img src="IMAGES/VA-PROCESS.png" alt="Process" width="350">
 
 
