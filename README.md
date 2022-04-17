@@ -1,10 +1,10 @@
 # VITRO-ASEMIC
 <p align="center" width="100%">
-    <img src="IMAGES/VA-LOGO.png" alt="VITRO_ASEMIC-LOGO" width="750">
+    <img src="IMAGES/VA-LOGO.jpg" alt="VITRO_ASEMIC-LOGO" width="750">
 </p>
 
 <p align="center" width="100%">
-    <img src="IMAGES/VA-INSTA-2.jpg" alt="Glyphs" width="600">
+    <img src="IMAGES/VA-INSTA-2.jpg" alt="Glyphs" width="800">
 </p>
 
 VITRO-ASEMIC is an artifact for my graphic design capstone project and is a working .otf font that you can download for free on here. I only ask that you attribute my name either through my [Instagram](https://instagram.com/thomaskrajna_artist) or though my [website](https://www.thomaskrajna.com/). I also have an inspiration board [here](https://pin.it/39A13uk) for this project as well. 
