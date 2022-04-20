@@ -29,7 +29,7 @@ This work is being commenced on 5/5/22 during the beginning of the graphic desig
         PROCLAMATION OF AXIOMS
             1. (De)sign beyond the function
             2. (De)sign beyond the human
-            3. Inmaterial communication is more important than material communication: Geist dance
+            3. Immaterial communication is more important than material communication: Geist dance
             4. The mark can seduce essence entrapment: know how memories can be incubated
             5. Consciousness creates reality through symbolic and imaginary realms  
             6. Use the non-human as an aid
